@@ -1,0 +1,4 @@
+com\chihuo\uid\StartApplication.class
+com\chihuo\uid\component\CachedUidComponent.class
+com\chihuo\uid\context\SpringContextHolder.class
+com\chihuo\uid\web\TestController.class
